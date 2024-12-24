@@ -31,3 +31,11 @@ $ harrypotter.txt | grep ^Альбус | grep -E "Пап|Слизерин" | wc 
 ## Задание
 
 Напишем небольшой сценарий для Дэниэла Рэдклиффа. Измените все строчки, начинающиеся с "Гарри:", на имя актера и запишите изменения в новый файл. Напишите скрипт, который будет выводить в терминал измененные строчки и нумеровать их. Сделайте также проверку, был ли передан файл при выполнении вашего скрипта.
+
+## Ресурсы
+
+1. [Источник, где можно найти все](https://www.google.ru/?hl=ru)
+2. [Grep | Основы командной строки](https://ru.hexlet.io/courses/cli-basics/lessons/grep/theory_unit)
+3. [Команда SED в Linux](https://habr.com/ru/companies/ruvds/articles/667490/)
+4. [Циклы for и while](https://habr.com/ru/companies/ruvds/articles/325928/)
+5. [Параметры и ключи командной строки](https://habr.com/ru/companies/ruvds/articles/326328/)
